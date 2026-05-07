@@ -13,7 +13,7 @@
     "category": "Accounting",
     "author": "Abdelrahman Ashraf",
     "website": "https://www.linkedin.com/in/abdelrahman-ashraf-ahmed-ahmed/",
-    "images": ["static/description/screenshots/01_settings.png"],
+    "images": ["static/description/screenshots/icon.svg"],
     "depends": [
         "stock",
         "account",
